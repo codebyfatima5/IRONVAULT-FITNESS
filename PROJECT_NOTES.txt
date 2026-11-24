@@ -1,0 +1,11 @@
+IRONVAULT FITNESS
+Frontend-only project package
+
+Technology: HTML5, CSS3, Vanilla JavaScript
+No backend / no database / no real payment gateway.
+
+Images: remote Unsplash image URLs are used for visual photography. Internet access is required to load these images. Replace URLs with locally licensed gym images if required.
+
+Demo data is stored in browser LocalStorage. To reset demo data, clear this site's LocalStorage from browser developer tools and reload.
+
+All prices, profiles, contact information and analytics are placeholders for demonstration and must be confirmed by the gym owner.
